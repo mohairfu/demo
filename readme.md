@@ -1,4 +1,4 @@
 This is a test file
 Second text for testing
 
-conflict............!!!!
+conflict....... over...
